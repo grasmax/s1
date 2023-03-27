@@ -1,32 +1,15 @@
-# s1
-2asdadad
+# Konfiguration einer Photovoltaik-Insel
+Die Anlage besteht aus:
+4 x Victron Solarmodul 360W
+Victron Multiplus II 48/35
+Victron MPPT 250/60
+Victron Cerbo GX
+Victron Lynx
+4x Pylontech US2000C 50Ah/2,5kWh
+Diverse DC- und Datenkabel
+Diverse Konfigurationsprogramme
 
-asdasdasdasd
-### ssdsd23ee
+Die Anlage befindet sich seit November tageweise im Testbetrieb.
+Ein 27/7-Betrieb ist nicht möglich.
 
-https://github.com/grasmax/s1/issues/2
-
-```
-git status
-git add
-git commit
-```
-```c
-15
-class CMy
-{
-public:
-  cMy(){}
-}
-
-function test() {
-int i;
-char s;
-s = "dsdsds";
-  console.log("notice the blank line before this function?");
-}
-````
-```
-Look! You can see my backticks.
-```
-````
+Diese Repository soll dazu dienen, alle bestehenden Probleme zu beschreiben und Lösungsmöglichkeiten aufzuzeigen.
