@@ -8,8 +8,8 @@ Die Anlage besteht aus:
 - Victron Cerbo GX
 - Victron Lynx
 - 4x Pylontech US2000C 50Ah/2,5kWh
-- Diverse DC- und Datenkabel
-- Diverse Konfigurationsprogramme
+- Diversen DC- und Datenkabeln
+- Diversen Konfigurationsprogrammen
 
 Die Anlage befindet sich seit November tageweise im Testbetrieb.
 Ein 27/7-Betrieb ist nicht möglich.
