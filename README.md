@@ -11,6 +11,6 @@ Die Anlage besteht aus:
 - Diversen DC- und Datenkabeln
 - Diversen Konfigurationsprogrammen
 
-Die Anlage befindet sich seit November tageweise im Testbetrieb.
+Die Anlage befindet sich seit November 2022 tageweise im Testbetrieb.
 Ein 27/7-Betrieb ist nicht möglich.
 
