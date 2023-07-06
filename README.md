@@ -8,6 +8,7 @@ Die Anlage besteht aus:
 - Victron Cerbo GX,
 - Victron Lynx,
 - 4x Pylontech US2000C 50Ah/2,5kWh,
+- Gavazzi-Energiezähler EM540,
 - diversen DC- und Datenkabeln und
 - diversen Konfigurationsprogrammen.
 
