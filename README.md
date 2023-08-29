@@ -1,5 +1,5 @@
 # Konfiguration einer Photovoltaik-Insel
-Dieses Repository soll dazu dienen, alle bestehenden Probleme in https://github.com/grasmax/s1/issues zu beschreiben und Lösungsmöglichkeiten aufzuzeigen.
+Dieses Repository soll dazu dienen, alle bestehenden Probleme beim Betrieb der PV-Anlage in https://github.com/grasmax/s1/issues zu beschreiben und Lösungsmöglichkeiten aufzuzeigen.
 
 Die Anlage besteht aus:
 - 4 x Victron Solarmodul 360W,
