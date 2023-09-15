@@ -21,3 +21,8 @@ Die Anlage besteht aus:
 Die Anlage befindet sich seit November 2022 tageweise im Testbetrieb.
 Ein 24/7-Betrieb ist nicht möglich.
 
+Eine mögliche Lösung für die in 
+
+beschriebenen Probleme wird in 
+* https://github.com/grasmax/AcOnOff/blob/main/doc/gh_schaltschema.pdf
+vorgeschlagen.
